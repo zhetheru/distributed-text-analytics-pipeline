@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Generated analysis output
+output/*
+!output/.gitkeep
+
+# Generated figures
+figures/*
+!figures/.gitkeep
+
+# Local IDE and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
