@@ -366,5 +366,13 @@ This project demonstrates practical experience with:
 
 ## Author
 
-**Zarita Hetheru**  
-GitHub: `@zhetheru`
+**Zarita Lee Hetheru**  
+
+M.S. Computer Science Candidate, Case Western Reserve University  
+Expected Graduation: August 2026  
+
+B.S. Business Administration  
+Dual Major: Information Systems and International Business  
+Cleveland State University  
+
+GitHub: [@zhetheru](https://github.com/zhetheru)
